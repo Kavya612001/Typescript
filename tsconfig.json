@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "ES6",
+        "sourceMap": true
+    },
+    "files": [
+        "*.ts"
+    ]
+}
