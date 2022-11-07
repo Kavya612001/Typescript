@@ -1,0 +1,3 @@
+async dev - multiple processes run at the same time
+node - non blocking IO 
+process in one function, doesnt affect the process in another function
