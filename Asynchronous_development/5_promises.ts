@@ -1,6 +1,6 @@
 "use strict";
 // pending - creating an api request
-// complete - resolve in promise (Promise cameback true, everything went successfull)
+// complete - resolve in promise (Promise cameback true, everything went successful)
 // Reject - error in api response, something like that
 
 // 3 stages of a promise - pedning, resolve, reject 
